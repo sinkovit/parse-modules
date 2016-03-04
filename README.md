@@ -4,7 +4,7 @@ Usage: python gensoft.py > listing.csv
 
 Notes:
 
-1) I don’t currently do anything with /share/apps/compute/modulefiles. There’s no information on versions and there is some overlap with the output from the modules command. Figure that it will be easier to handle these by hand for now.
+(1) I don’t currently do anything with /share/apps/compute/modulefiles. There’s no information on versions and there is some overlap with the output from the modules command. Figure that it will be easier to handle these by hand for now.
 
 (2) You need to manually populate the python dictionaries with the type, domain, handle type and description. Let me know if you would like to just change the handle type to “module” for everything since that seems to be what you’re doing already.
 
